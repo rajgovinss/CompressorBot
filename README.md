@@ -16,3 +16,5 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 #Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/k7W9NO?referralCode=CkPGfx)
+#Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1nxA4E?referralCode=CkPGfx)
